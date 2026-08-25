@@ -1,4 +1,4 @@
-# Motor Damage Severity Analysis
+# Vehicle Damage Severity Analysis
 
 A comprehensive machine learning project for detecting and classifying motor vehicle damage severity using deep learning. This repository contains end-to-end analysis and modeling of car damage from image data.
 
