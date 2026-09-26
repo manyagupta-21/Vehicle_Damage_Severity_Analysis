@@ -1,6 +1,6 @@
 # Vehicle Damage Severity Analysis
 
-A multi-label deep learning project for detecting and classifying motor vehicle damage severity from images. This repository contains an end-to-end pipeline — preprocessing, exploratory data analysis, and model benchmarking — built on the CarDD (Car Damage Detection) dataset.
+A multi-label deep learning project for detecting and classifying motor vehicle damage severity from images. This repository contains an end-to-end pipeline of preprocessing, exploratory data analysis, and model benchmarking, built on the CarDD (Car Damage Detection) dataset.
 
 ---
 
