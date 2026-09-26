@@ -52,10 +52,19 @@ Three architectures were benchmarked on the same multi-label setup (`BCEWithLogi
 
 ---
 
-## ⚙️ Technologies & Dependencies
+## ⚙️ Dependencies
 
-**Core libraries:** PyTorch, TorchVision, NumPy, Pandas, Pillow (PIL), Matplotlib
-**Evaluation:** scikit-learn (`precision_score`, `recall_score`, `f1_score`, macro-averaged)
+- Python 3.x
+- NumPy, Pandas
+- PyTorch, TorchVision
+- Pillow (PIL)
+- Scikit-learn
+- Matplotlib
+- Jupyter (to run the notebooks)
+
+Install all dependencies with: pip install -r requirements.txt
+
+> Note: this project was trained using PyTorch with GPU (CUDA) support. If you have a CUDA-enabled GPU, install the matching PyTorch build from the [official PyTorch install guide](https://pytorch.org/get-started/locally/) instead of the CPU-only default from requirements.txt.
 
 ---
 
